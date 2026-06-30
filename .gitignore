@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+env/
+.Python
+
+# Local clone of the yt-dlp source (the pip package is used instead)
+yt-dlp/
+
+# Download artifacts / runtime junk
+downloads/
+archive.txt
+*.log
+*.mp3
+*.mp4
+*.m4a
+*.webm
+*.opus
+*.part
+*.zip
+
+# OS / editor
+.DS_Store
+.idea/
+.vscode/
